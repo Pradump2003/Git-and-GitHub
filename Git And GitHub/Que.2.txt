@@ -1,0 +1,20 @@
+Que.2- Explain the Git Workflow, including the staging area, working directory, and repository. 
+Ans - A Git workflow involves three primary states: the working directory where you make changes 
+      to files, the staging area (also called the index) where you prepare specific changes to be 
+      committed, and the repository which stores the final, committed versions of your files, essentially 
+      acting as a snapshot of your project at a specific point in time; allowing you to track changes and 
+      revert to previous versions if needed. 
+
+      Working Directory:
+	* This is where you actively edit and modify files on your local machine. 
+        * Any changes made here are not yet part of the version control system until staged. 
+
+      Staging Area (Index):
+	* Acts as a temporary holding area where you explicitly select which changes from your working 
+	  directory you want to include in the next commit. 
+        * To add files to the staging area, you use the "git add" command. 
+
+      Repository:
+        * This is where the final, committed versions of your files are stored. 
+        * To create a snapshot of the staged changes and store them in the repository, you use the "git commit" 
+          command, which usually includes a descriptive message explaining what changes were made. 

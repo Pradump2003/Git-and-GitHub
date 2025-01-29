@@ -1,0 +1,37 @@
+Que.4- Briefly explain what GitHub is and how it facilitates collaboration and version control also name some
+       alternatives to GitHub.
+Ans -  GitHub is a cloud-based hosting service that helps developers store and manage their code, as well
+       as track and control changes to their code over time. It also provides a number of features that make it easy for
+       teams to collaborate on software projects.
+
+       GitHub facilitates collaboration and version control in the following ways
+       * Version Control :-
+			    GitHub uses Git, a distributed version control system, to track changes to code. This allows
+        developers to see who made what changes and when, and to revert to previous versions of the code if
+        necessary.
+
+       * Branches:-
+		* Create a new branch to isolate changes for a specific feature or fix. 
+         * Each branch represents a snapshot of the project at a particular point in time. 
+         * Developers can work on their branches independently without affecting the main codebase
+
+       * Pull Requests:- 
+		       * When a developer is ready to integrate their branch changes into the main code, they create a pull request. 
+         * A pull request includes a description of the changes, allows for code review by other team members, and facilitates 
+           discussion before merging. 
+         * Once the changes are reviewed and approved, the pull request can be merged into the target branch. 
+
+       * Issues and tasks:- 
+			GitHub provides a way for developers to track issues and tasks related to their code. This
+         helps teams to stay organized and to prioritize their work.
+
+       * Code reviews:-  
+                    GitHub makes it easy for developers to review each other's code. This helps to improve the
+          quality of the code and to identify potential bugs.
+
+       Some of the platforms that provide the same functionality similar to GitHub can be -
+       1. GitLab
+       2. BitBucket
+       3. Source Forge
+       4. Launchpad
+			
